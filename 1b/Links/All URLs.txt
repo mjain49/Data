@@ -1,0 +1,8 @@
+***********************ICompass*************************
+https://icompass.fs.capgemini.com
+
+iUpload**************
+
+http://ndafile:8081/iUpload/upload/upload.action
+******************* shared ndafile****************
+\\ndafile
